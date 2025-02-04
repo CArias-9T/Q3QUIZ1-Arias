@@ -1,0 +1,22 @@
+body{
+	background-image: linear-gradient(to right, #DDFFF7, #93E1D8);
+}
+
+.container-fluid{
+	font-family: heiti sc;
+	text-align: center;
+	color:white;
+	margin-top:80px;
+	padding:10px;
+	background-color:rgba(0, 0, 0, .6);
+	padding:50px;
+	margin-bottom:20px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.card{
+	margin:20px;
+	background-color:#DDFFF7;
+	border:5px solid gray;
+
+}
