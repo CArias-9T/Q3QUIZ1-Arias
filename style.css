@@ -20,3 +20,12 @@ body{
 	border:5px solid gray;
 
 }
+
+.footer{
+		bottom:0;
+		position:fixed;
+		width:100%;
+		font-family: heiti sc;
+		text-align: center;
+		color:white;
+	}
